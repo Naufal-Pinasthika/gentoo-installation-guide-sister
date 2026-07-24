@@ -1,6 +1,7 @@
 ### Gentoo Installation Guide
 
 ### Link Demo YouTube
+https://youtu.be/le3GPipxgVQ
 
 ### Tabel Bonus
 
